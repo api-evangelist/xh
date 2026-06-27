@@ -47,7 +47,7 @@ apis:
         url: https://github.com/ducaale/xh#readme
       - type: GitHubRepository
         url: https://github.com/ducaale/xh
-      - type: Releases
+      - type: ReleaseNotes
         url: https://github.com/ducaale/xh/releases
       - type: ChangeLog
         url: https://github.com/ducaale/xh/blob/master/CHANGELOG.md
@@ -60,7 +60,7 @@ common:
     url: https://github.com/ducaale/xh
   - type: Documentation
     url: https://github.com/ducaale/xh#readme
-  - type: Releases
+  - type: ReleaseNotes
     url: https://github.com/ducaale/xh/releases
   - type: Issues
     url: https://github.com/ducaale/xh/issues
